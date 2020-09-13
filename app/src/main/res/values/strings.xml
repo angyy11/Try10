@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Try</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="menu_movie">Movie</string>
+    <string name="menu_food_beverage"><![CDATA[Food & Beverage]]></string>
+    <string name="menu_show_time">Show Time</string>
+    <string name="menu_experiences">Experiences</string>
+    <string name="menu_help">Help</string>
+    <string name="policy">Policy</string>
+
+    <string name="policy_title">
+        </string>
+
+    <string name="FAQ">FAQ</string>
+    <string name="general">General</string>
+    <string name="food_beverage"><![CDATA[Food & Beverage]]></string>
+    <string name="rating">Rating</string>
+    <string name="feedbackTopic">Feedback</string>
+    <string name="u">This category is for viewing by all walks of life without  age limit. The film potrays good values, decency  and positive lessons as well as entertaining.</string>
+    <string name="p13">Viewers under 13 years of age need parental/guardian  supervision while viewing. Scenes in the film consists  elements of horror; scary; negative acts; suspense  and frantic elements, but not excessive; elusive  storyline; and elements that can disturb a child’s emotion.</string>
+    <string name="p18">This category is for viewers aged 18 and above. The film  contains elements of horror, gory, and violent, but not  excessive; adult scene that is not excessive; social,  sensitive political and religious elements which require  a high level understanding.</string>
+    <string name="cancel">Cancellation and Refunds</string>
+    <string name="q1">How can I apply to refund</string>
+    <string name="a1">Customers can apply for refunds under these  circumstances: Issues pertaining to the cinemas facilities  (e.g. air conditioning, seats, hall, lighting,  electrical and/or plumbing). Issues pertaining to projection equipment  (e.g. session breakdown, sound system  and/or subpar visual quality).</string>
+    <string name="q2">Outside Food Policy</string>
+    <string name="outside">Can I bring outside food into GWS</string>
+    <string name="a2">"Customers are required to purchase food and  beverage from TGV Cinemas' snack bars. Food purchased outside of TGV Cinemas premises  will not be allowed in the cinema/movie halls. Customers can place their outside food and  beverage at the ticket tearing point before  entering the cinema/movie halls.  "</string>
+    <string name="fq1"><![CDATA[How I know if I have successfully pre-booked my F&B order]]></string>
+    <string name="fa1"><![CDATA[Upon completing payment, you will receive an email from us. The order details will be listed under the F&B  section of the email.]]></string>
+    <string name="fq2">Can I change the popcorn and drink flavour after payment?</string>
+    <string name="fa2">No, you cannot.Any changes should be made prior to completing  payment.</string>
+    <string name="Feedback">"If FAQ do not have help you solve the problem Please comment below "</string>
+
+    <!--Now Showing & Popular-->
+    <string name="toast_message">Submit Successful</string>
+    <string name="my_hero_academia">MY Hero\nAcademia:\nHeros Rising</string>
+    <string name="jumanji">Jumanji :\nThe Next Level</string>
+    <string name="underwater">Underwater</string>
+    <string name="baba_yaga">Baba Yaga :\nTerror of the\nDark Forest</string>
+    <string name="fantasy_island">Fantasy Island</string>
+    <string name="the_old_guard">The Old Guard</string>
+    <string name="howling_village">Howling Village</string>
+    <string name="bloodshot">Bloodshot</string>
+    <string name="the_grudge">The Grudge</string>
+    <string name="black_water">Black Water :\nAbyss</string>
+    <string name="the_jack_in_the_box">The Jack In The Box</string>
+    <string name="scoob">Scoob!</string>
+    <string name="a_choo">A Choo</string>
+    <string name="demon_slayer_party">Demon Slayer Party</string>
+    <!--Coming Soon-->
+    <string name="unhinged">Unhinged</string>
+    <string name="greenland">Greenland\n2020</string>
+    <string name="monster_hunter">Monster Hunter</string>
+    <string name="the_conjuring_3">The Conjuring 3</string>
+    <string name="kingsman_3">Kingsman 3</string>
+    <string name="the_witches">The Witches\n2020</string>
+    <string name="candyman">Candyman 2020</string>
+    <string name="halloween_kills">Halloween Kills</string>
+    <string name="the_pale_door">The Pale Door</string>
+    <string name="godzilla_vs_kong">Godzilla vs. Kong</string>
+    <string name="classic_title">Classic</string>
+    <string name="classic_content">With class-leading digital projection and 7.1 premium surround sound, we can ensvure a satisfying experience throughout your movie in this hall. Furnished with congenial seats that provide ample legroom space, relaxation and comfort will have a new improved meaning for you.</string>
+    <string name="imax_content">Every IMAX® theatre is  custom-designed to deliver the ultimate audio and visual experience. Most standard screens are small so the most obvious difference is the  large IMAX® screens which span wall-to-wall and floor-to ceiling. The screen is not only wider and higher  but also curved as well bringing you closer to the screen.  This places you in the center of the action and creates an  immersive experience no matter where you\'re sitting.</string>
+    <string name="imax_title">IMAX</string>
+    <string name="deluxe_content">The Deluxe hall which debuted in Central i-City meets its forerunner on another level altogether. This hall  has everything you love about the Deluxe hall but with more comfort. Making sure you get only the best,  Deluxe+ really defines the phrase, “get seated and get  comfortable”.</string>
+    <string name="deluxe_title">DELUXE+</string>
+    <string name="title_now_showing">Now Showing</string>
+    <string name="title_coming_soon">Coming Soon</string>
+    <string name="title_popular">Popular</string>
+    <string name="feedback">Feedback</string>
+
+    <string name="Now_showing">Now Showing</string>
+    <string name="Popular">Popular</string>
+    <string name="Coming_soon">Coming Soon</string>
+    <string name="pop">Pop</string>
+    <string name="blood">Bloodahat</string>
+    <string name="blooda">Bloodahot</string>
+    <string name="fant">Fantasy Island</string>
+    <string name="onward">Onward</string>
+    <string name="baby">Baba Yaga</string>
+    <string name="digimon">Digimon Adventure-Last
+        Evolution Kizuna</string>
+    <string name="hitman">Hitman</string>
+    <string name="antebellum">Antebellum</string>
+    <string name="mulan">Mulan 2020</string>
+    <string name="tenet">Tenet</string>
+    <string name="name">Name:</string>
+    <string name="enterName">Please enter user name</string>
+    <string name="phone">Please enter your phone number</string>
+    <string name="Phone">Phone:</string>
+    <string name="comment">Comment:</string>
+</resources>

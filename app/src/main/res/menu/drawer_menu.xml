@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home"
+            />
+        <item
+            android:id="@+id/movie"
+            android:title="@string/menu_movie"
+            >
+
+            <menu>
+                <item android:id="@+id/nav_coming_soon"
+                    android:title="Coming Soon"
+                    />
+                <item android:id="@+id/nav_now_showing"
+                    android:title="Now showing"
+                    />
+                <item android:id="@+id/nav_popular"
+                    android:title="Popular"
+                    />
+            </menu>
+
+        </item>
+    </group>
+    <item android:title="Customer">
+        <menu>
+            <item
+                android:id="@+id/food_beverage"
+                android:title="@string/menu_food_beverage"
+                />
+            <item
+                android:id="@+id/showtime"
+                android:title="@string/menu_show_time"
+                />
+            <item
+                android:id="@+id/experiences"
+                android:title="@string/menu_experiences"
+                />
+        </menu>
+    </item>
+    <item android:title="Help">
+
+        <menu>
+            <item android:id="@+id/nav_faq"
+                android:title="FAQ"
+
+                />
+            <item android:id="@+id/nav_policy"
+                android:title="Policy"
+
+                />
+        </menu>
+    </item>
+</menu>
